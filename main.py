@@ -8,7 +8,7 @@ from materiales import materiales
 # CONFIGURACIÓN DE LA PÁGINA WEB
 st.set_page_config(page_title="Control Industrial de Fragua v2.0", layout="wide")
 
-st.title(" SISTEMA DE CONTROL, GEMELO DIGITAL Y COSTOS - PANEL DE FRAGUA")
+st.title("🛠️ SISTEMA DE CONTROL, GEMELO DIGITAL Y COSTOS - PANEL DE FRAGUA")
 st.caption("Versión Web optimizada para el sector industrial peruano (Tarifas en Soles)")
 
 # =================================================
