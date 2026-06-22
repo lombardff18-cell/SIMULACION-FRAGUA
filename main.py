@@ -32,7 +32,7 @@ with col_izquierda:
     largo = st.number_input("Largo del Metal (m)", value=1.00, step=0.1)
     potencia_kw = st.number_input("Potencia del Quemador / Inducción (kW)", value=250.0, step=50.0)
 
-    btn_simular = st.button("🚀 EJECUTAR SIMULACIÓN INDUSTRIAL", use_container_width=True)
+    btn_simular = st.button("🚀 EJECUTAR SIMULACIÓN", use_container_width=True)
 
 # =================================================
 # LÓGICA DE SIMULACIÓN Y PROCESAMIENTO
